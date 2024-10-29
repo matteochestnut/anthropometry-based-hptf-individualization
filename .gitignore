@@ -1,3 +1,7 @@
+# my ignore
+*.numbers
+/models_and_dsp/models
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
